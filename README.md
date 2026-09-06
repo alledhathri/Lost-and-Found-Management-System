@@ -57,17 +57,27 @@ Lost&Found
 
 │
 ├── lib
+
 │ └── mysql-connector-j-*.jar
 │
 └── src
+
 ├── DBConnection.java
+
 ├── FoundItem.java
+
 ├── Item.java
+
 ├── ItemDAO.java
+
 ├── LostFoundCRUD.java
+
 ├── LostItem.java
+
 ├── Main.java
+
 ├── User.java
+
 └── UserDAO.java
 
 ---
@@ -103,17 +113,17 @@ git clone https://github.com/alledhathri/Lost-and-Found-Management-System.git
 ## 📸 Sample Output
 LOST & FOUND
 
-Add Item
+1.Add Item
 
-View Items
+2.View Items
 
-Search Item
+3.Search Item
 
-Update Item
+4.Update Item
 
-Delete Item
+5.Delete Item
 
-Exit
+6.Exit
 
 Enter your choice: 1
 
