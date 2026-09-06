@@ -54,6 +54,7 @@ This project allows users to add, view, search, update, and delete lost and foun
 
 ## 📂 Project Structure
 Lost&Found
+
 │
 ├── lib
 │ └── mysql-connector-j-*.jar
@@ -101,18 +102,27 @@ git clone https://github.com/alledhathri/Lost-and-Found-Management-System.git
 
 ## 📸 Sample Output
 LOST & FOUND
+
 Add Item
+
 View Items
+
 Search Item
+
 Update Item
+
 Delete Item
+
 Exit
 
 Enter your choice: 1
 
 Enter Item ID: 101
+
 Enter Item Name: Wallet
+
 Enter Description: Black leather wallet
+
 Enter Location: Library
 
 Item added successfully!
